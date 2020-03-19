@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'pages/intro_page.dart';
+import 'pages/intro_page_with_motion.dart';
 
 void main() => runApp(MyApp());
 
@@ -13,7 +14,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: IntroPage(),
+      debugShowCheckedModeBanner: false,
+      home: IntroPageWithMotion(),
     );
   }
 }

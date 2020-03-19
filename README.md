@@ -1,16 +1,30 @@
-# flectly_intro_page
+<h1 align="center"> Reflectly Like Login Page</h1>
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📱 Preview Project #
+<p align="center">
+    <img src="screenshots/login.gif" style="height:300px">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 📱 Screenshots in Practical #
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshots/dofhunt.gif" width="250" hspace="4">
+  <img src="https://itsallwidgets.com/screenshots/app-966-1.png" width="250" hspace="4">
+  
+</p>
+
+<h1 align="center">
+    <br>
+  Download App DOF Hunt:
+  <br>
+</h1>
+<p align="center">
+ <p>Appstore: <a>https://apps.apple.com/vn/app/dof-hunt/id1478865199</a></p>
+ <p>Google Play Store: <a>https://play.google.com/store/apps/details?id=com.dofhunt.app</a></p>
+</p>
+
+
+
