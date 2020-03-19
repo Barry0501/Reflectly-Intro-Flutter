@@ -4,7 +4,7 @@
 
 ## 📱 Preview Project #
 <p align="center">
-    <img src="screenshots/login.gif" style="height:300px">
+    <img src="screenshots/login.gif" width="250">
 </p>
 
 
